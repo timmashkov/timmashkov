@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 - Python backend developer, Russia 🇷🇺
 - Web apps 💻
-- Bachelor's dgree in engineering at VSTU 🎓
-- I love trying new things and developing myself ✈️
+- Bachelor's degree in engineering at VSTU 🎓
+- I love trying new things, education and code ✈️
 <div id="header" align=""> 
   <a href="https://whileTrue_coding.t.me/">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
