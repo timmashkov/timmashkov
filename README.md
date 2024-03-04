@@ -46,9 +46,9 @@ Here are some ideas to get you started:
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![sqlalchemy](https://img.shields.io/badge/sqlalchemy-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![alembic](https://img.shields.io/badge/alembic-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![rabbitmq](https://img.shields.io/badge/rabbitmq-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![sqlalchemy](https://img.shields.io/badge/sqlalchemy-%230db7ed.svg?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![alembic](https://img.shields.io/badge/alembic-%230db7ed.svg?style=for-the-badge&logo=alembic&logoColor=white)
+![rabbitmq](https://img.shields.io/badge/rabbitmq-%230db7ed.svg?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 
 
