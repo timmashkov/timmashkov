@@ -48,6 +48,7 @@ Here are some ideas to get you started:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![sqlalchemy](https://img.shields.io/badge/sqlalchemy-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![alembic](https://img.shields.io/badge/alembic-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![rabbitmq](https://img.shields.io/badge/rabbitmq-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
 
