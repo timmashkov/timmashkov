@@ -46,15 +46,15 @@ Here are some ideas to get you started:
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![sqlalchemy](https://img.shields.io/badge/sqlalchemy-2.0.25-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![alembic](https://img.shields.io/badge/alembic-1.13.1_-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![sqlalchemy](https://img.shields.io/badge/sqlalchemy-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![alembic](https://img.shields.io/badge/alembic-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
 
 ### Some stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=everysoftware&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=everysoftware&theme=transparent)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=timmashkov&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timmashkov&theme=transparent)
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=everysoftware)](https://github.com/anuraghazra/github-readme-stats)
 
