@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - Bachelor's dgree in engineering at VSTU 🎓
 - I love trying new things and developing myself ✈️
 <div id="header" align=""> 
-  <a href="[https://t.me/whileTrue_coding]">
+  <a href="https://whileTrue_coding.t.me/">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://vk.com/gwallalover">
@@ -46,8 +46,8 @@ Here are some ideas to get you started:
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![sqlalchemy](https://img.shields.io/badge/sqlalchemy-2.0.25-critical?style=flat-square)](https://www.sqlalchemy.org//)
-![alembic](https://img.shields.io/badge/alembic-1.13.1_-violet?style=flat-square)](https://alembic.sqlalchemy.org//)
+![sqlalchemy](https://img.shields.io/badge/sqlalchemy-2.0.25-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![alembic](https://img.shields.io/badge/alembic-1.13.1_-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
 
