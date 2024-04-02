@@ -49,6 +49,7 @@ Here are some ideas to get you started:
 ![sqlalchemy](https://img.shields.io/badge/sqlalchemy-%230db7ed.svg?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 ![alembic](https://img.shields.io/badge/alembic-%230db7ed.svg?style=for-the-badge&logo=alembic&logoColor=white)
 ![rabbitmq](https://img.shields.io/badge/rabbitmq-%230db7ed.svg?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![kafka](https://img.shields.io/badge/kafka-%230db7ed.svg?style=for-the-badge&logo=rabbitmq&logoColor=black)
 
 
 
